@@ -1,0 +1,2 @@
+&global    lmax1=20 lamdamax1=20 lmax2=20 lamdamax2=20 abar=10 abarmax=25 /
+&grid      mp=1.0078d0 mn=1.0086d0 hbarc=197.327d0 /
